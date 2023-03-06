@@ -1,7 +1,6 @@
 class Constcolors {
   static int primary = 0xff4D5DFA;
   static int bgcolor = 0xff181A20;
-  // static int bgcolor = 0xff3B2042;
 }
 
 class ImageConstants {
